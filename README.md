@@ -1,16 +1,24 @@
-# React + Vite
+🧠 Wordus – Wordle-Inspired Game
+A web-based Wordle-style game built using React.js. Users can guess a 5-letter word with real-time feedback and keyboard interaction.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+Interactive 5-letter word guessing game
+Colour feedback system (correct, present, absent)
+On-screen and physical keyboard support
+Random word generation using external API
+“New Game” reset functionality
 
-Currently, two official plugins are available:
+🛠️ Tech Stack
+React.js (Frontend)
+Vite (Build tool)
+JavaScript / CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🌐 Live Demo
+👉https://wordus.onrender.com
 
-## React Compiler
+📦 Installation
+npm install
+npm run dev
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📸 Screenshots
+<img width="798" height="405" alt="image" src="https://github.com/user-attachments/assets/cc515fca-0bc6-4603-b2f6-7ac20a1dd9b0" />
