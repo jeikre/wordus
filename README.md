@@ -4,17 +4,17 @@ A web-based Wordle-style game built using React.js. Users can guess a 5-letter w
 
 🚀 Features
 
-Interactive 5-letter word guessing game
-Colour feedback system (correct, present, absent)
-On-screen and physical keyboard support
-Random word generation using external API
-“New Game” reset functionality
+Interactive 5-letter word guessing game,
+Colour feedback system (correct, present, absent),
+On-screen and physical keyboard support,
+Random word generation using external API,
+“New Game” reset functionality,
 
 🛠️ Tech Stack
 
-React.js (Frontend)
-Vite (Build tool)
-JavaScript / CSS
+React.js (Frontend),
+Vite (Build tool),
+JavaScript / CSS,
 
 🌐 Live Demo
 
