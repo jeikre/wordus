@@ -21,4 +21,5 @@ npm install
 npm run dev
 
 📸 Screenshots
+
 <img width="798" height="405" alt="image" src="https://github.com/user-attachments/assets/cc515fca-0bc6-4603-b2f6-7ac20a1dd9b0" />
